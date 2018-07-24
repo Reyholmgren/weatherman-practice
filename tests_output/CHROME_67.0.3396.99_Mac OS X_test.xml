@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="5" time="6.293" timestamp="Tue, 24 Jul 2018 17:57:16 GMT">
+  
+    <testcase name="check city state search" classname="test" time="3.364" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="check empty search" classname="test" time="0.7440" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="check zip code search" classname="test" time="0.6840" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="smoke test empty search" classname="test" time="0.7550" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="smoke test" classname="test" time="0.7460" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
